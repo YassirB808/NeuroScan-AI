@@ -36,7 +36,9 @@ It features:
 
 ## 🧪 Dataset
 
-Dataset sourced from [Kaggle – Brain Tumor MRI Detection](https://www.kaggle.com/datasets/parisadk/brain-tumor-detection)  
+Dataset sourced from [Kaggle – Brain Tumor MRI Detection]([https://www.kaggle.com/datasets/parisadk/brain-tumor-detection](HTTPS://WWW.KAGGLE.COM/DATASETS/PKDARABI/MEDICAL-IMAGE-DATASET-BRAIN-TUMOR-DETECTION/DATA
+)<img width="3440" height="133" alt="image" src="https://github.com/user-attachments/assets/90bdaf5c-7ef1-429c-8850-881380f0eea1" />
+)  
 Includes labeled MRI scans across four categories: glioma, meningioma, pituitary, and no tumor. Images are annotated with bounding boxes and formatted for YOLOv8 training.
 
 ## 🧠 Model Training
