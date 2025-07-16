@@ -66,7 +66,7 @@ neuroscan-ai/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/neuroscan-ai.git
+   git clone https://github.com/YassirB808/NeuroScan-AI
    cd neuroscan-ai
    ```
 
