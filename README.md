@@ -84,15 +84,3 @@ neuroscan-ai/
    ```
    http://127.0.0.1:5000/
    ```
-
-## 📸 Demo
-
-Coming soon – stay tuned for screenshots and demo video!
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-**Note:** This tool is for educational and research purposes and is not intended for clinical use.
